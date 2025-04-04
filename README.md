@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📫 How to reach me: My user Name is same or similar to this user name in many platforms I use Discord, Steam, Instangram and some other also I stream games and other stuff on Twitch sometimes. If you are lucky to find me you can join on our adventures of me playing games and you guys watching and commenting.
+- 📫 How to reach me: My user Name is same or similar to this user name in many platforms I use Discord, Steam, Instangram and some other also I stream games and other stuff on Twitch sometimes. If you are lucky to find me you can join on our adventures.
 <!--
 **Maksud200418/Maksud200418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
