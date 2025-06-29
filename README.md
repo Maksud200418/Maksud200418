@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 - 📫 How to reach me: My user Name is same or similar to this user name in many platforms I use Discord, Steam, Instangram and some other also I stream games and other stuff on Twitch sometimes. If you are lucky to find me you can join on our adventures.
--Lore Snippet:
-Once a proud sentinel of the sacred flame, Makswyn Ashborne earned a new name among the scattered ashes — the Knight Who Dies Too Often. Cursed by fate and countless falls, he wanders the ashen paths, arriving just a moment too late... or often just in time to meet his end.
-
-Yet each death is but a lesson, each fall a step toward redemption. The Ashborne Wanderer fights on with a wry smile hidden beneath his helm, proving that even the most fallen knight can rise again.
+- Lore Snippet:
+  Once a proud sentinel of the sacred flame, Makswyn Ashborne earned a new name among the scattered ashes — the Knight Who Dies Too Often. Cursed by fate and countless falls, he wanders the ashen paths, arriving just a moment too late... or often just in time to     meet his end.
+  Yet each death is but a lesson, each fall a step toward redemption. The Ashborne Wanderer fights on with a wry smile hidden beneath his helm, proving that even the most fallen knight can rise again.
 <!--
 **Maksud200418/Maksud200418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
