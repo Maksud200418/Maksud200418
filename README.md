@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my bachelors degree on ICT
 - 🌱 I’m currently learning JS, HTML, CSS, PYTHON, C#
 - 💬 Ask me about anything something dunno what?
-- 📫 How to reach me: Use this to find my links to other platforms | https://guns.lol/maksud_2.0 |. Or email me on 
+- 📫 How to reach me: Use this to find my links to other platforms | https://guns.lol/maksud_2.0 |. Or email me on I don't know I will write once I decide which email you can email me on.
 - 😄 Pronouns: I am a MALE!!!!
 - ⚡ Fun fact: I "own" about 300 games.
 
